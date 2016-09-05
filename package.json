@@ -1,0 +1,23 @@
+{
+  "name": "HashtagGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  "start": "node ./app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hub.jazz.net/git/oliversjostrand115/HashtagGenerator.1"
+  },
+  "author": "Oliver",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+	  "bluebird": "",
+    "debug": "",
+    "express": "",
+    "morgan": "",
+    "request-promise": ""
+  }
+}
